@@ -140,3 +140,4 @@ cython_debug/
 # Specific
 model.h5
 *ipynb
+secret_settings.py
