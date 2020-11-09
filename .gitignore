@@ -138,6 +138,5 @@ dmypy.json
 cython_debug/
 
 # Specific
-model.h5
-*ipynb
+*.h5
 secret_settings.py
